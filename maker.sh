@@ -2,7 +2,7 @@
 
 # Verzeichnisse
 DIST_DIR="dists/stable"
-COMPONENT_DIR="$DIST_DIR/main/binary-i386"
+COMPONENT_DIR="$DIST_DIR/main/binary-amd64"
 
 # Release-Datei erstellen
 cat > $DIST_DIR/Release <<EOF
