@@ -2,7 +2,12 @@ Origin: TheErrorExe Repo
 Label: Stable
 Suite: stable
 Codename: stable
-Architectures: amd64 i386
+Date: Sun, 24 Nov 2024 22:12:12 +0100
+Architectures: amd64
 Components: main
-Description: TheErrorExe Repo
-
+MD5Sum:
+ 43e24376cfcab8544effc20b2cf8cbfd 496 main/binary-i386/Packages
+ 741558ae760ac1d3f25be79e868b32b7 378 main/binary-i386/Packages.gz
+SHA256:
+ 0cee85258eb612fe771637f39a77046f1e05b9456fed3a4f0dc122aac674c615 496 main/binary-i386/Packages
+ 7d9cd4b288ed7df0f128b3c351b075fa941b4cf060e20feda0a21aca0e58de04 378 main/binary-i386/Packages.gz
