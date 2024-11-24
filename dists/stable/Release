@@ -1,13 +1,25 @@
-Origin: TheErrorExe Repo
-Label: Stable
-Suite: stable
-Codename: stable
-Date: Sun, 24 Nov 2024 21:12:12 UTC
-Architectures: amd64
-Components: main
+Date: Sun, 24 Nov 2024 21:25:10 +0000
 MD5Sum:
- 43e24376cfcab8544effc20b2cf8cbfd 496 main/binary-i386/Packages
- 741558ae760ac1d3f25be79e868b32b7 378 main/binary-i386/Packages.gz
+ 1c1c29025b18fbe790de93b373b155cb               38 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ be099842df9a2955c0990c978b621cc1              378 main/binary-amd64/Packages.gz
+ 43e24376cfcab8544effc20b2cf8cbfd              496 main/binary-i386/Packages
+ 741558ae760ac1d3f25be79e868b32b7              378 main/binary-i386/Packages.gz
+SHA1:
+ 021e8d094f1b16ba84ab3ded34d717f2c7176150               38 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ 440cc27389e58b0b3fa140de207db3ee3b908c97              378 main/binary-amd64/Packages.gz
+ 763dbb6a9babd4538371e7b88963481af2113130              496 main/binary-i386/Packages
+ 188d2f2ed5b39e78dee424e069fa990d6582e074              378 main/binary-i386/Packages.gz
 SHA256:
- 0cee85258eb612fe771637f39a77046f1e05b9456fed3a4f0dc122aac674c615 496 main/binary-i386/Packages
- 7d9cd4b288ed7df0f128b3c351b075fa941b4cf060e20feda0a21aca0e58de04 378 main/binary-i386/Packages.gz
+ da0a2c48523b3bbe7ae4442c4178522bffb020027a1312ed9aef23ec103b3b52               38 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 0ad13e5ac580ef9a4bcc6391932b61674eeb997bc10c3eb602de89e51c1c76ec              378 main/binary-amd64/Packages.gz
+ 0cee85258eb612fe771637f39a77046f1e05b9456fed3a4f0dc122aac674c615              496 main/binary-i386/Packages
+ 7d9cd4b288ed7df0f128b3c351b075fa941b4cf060e20feda0a21aca0e58de04              378 main/binary-i386/Packages.gz
+SHA512:
+ f47812f3535f85c1ded4504e6c337dd095821a11f48e88097f8980bcada66b3d9d012f37a98e5533c91a9af945434df27b58f9ea9cd3b39c9bcc86b24f748826               38 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 37e0238fdbd03072f95995431039599162930f722f2887f26484126eeed65daaee704e3502e3f8ddeee6e6d5adbf8f6bfd23df164be19dbae0522262c4626f8d              378 main/binary-amd64/Packages.gz
+ 1aa7a82a2333486a4e030bd2214ce3a3db012b0553959ed30ec9a7795ec6aebaa8f37eaedfd5fdcc2960c248ec003583bb171616b42e8135b7571c3af8c2c7e5              496 main/binary-i386/Packages
+ aa3df6f627159e6b084730e90f70540f89b3caac68f069dbb69d458749f36b1eda01de4bcd70b24ab138ef2bb614b0d2757497c16de788184fce112c27116e8b              378 main/binary-i386/Packages.gz
