@@ -2,12 +2,12 @@ Origin: TheErrorExe Repo
 Label: Stable
 Suite: stable
 Codename: stable
-Date: Sun, 24 Nov 2024 22:40:36 UTC
+Date: Sun, 24 Nov 2024 22:56:21 +0100
 Architectures: amd64
 Components: main
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 6eb356216470147d741badf08004f1c7 369 main/binary-amd64/Packages.gz
+     main/binary-amd64/Packages
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 480c2c43c625370076147a7f3a86814cba0a47887931ae1bd7165f0cd5c16e34 369 main/binary-amd64/Packages.gz
+     main/binary-amd64/Packages
+SHA512:
+     main/binary-amd64/Packages
