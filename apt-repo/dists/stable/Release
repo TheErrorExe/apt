@@ -1,7 +1,13 @@
-Origin: TheErrorExe Repository
-Label: TheErrorExe APT Repo
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: APT repository for TheErrorExe
+Date: Sun, 24 Nov 2024 22:16:44 +0000
+MD5Sum:
+ d7f15f5802ad2be559e017f056caa1a5               38 Release
+ c9b91b98c128d6a870427a5151e5e61e              390 main/binary-amd64/Packages.gz
+SHA1:
+ 5974066755e6de1ced2eb18844954502c2e7c3c8               38 Release
+ 9576da52406de14b7ec51f15ea9c723e0360964f              390 main/binary-amd64/Packages.gz
+SHA256:
+ bc5d9061f9782bb13889405c13bdc49ebcb1f5dcb6318620b8b1cad45d1c7380               38 Release
+ 261783cba2e9cf4821a99829589ef8b7ebc8a5b1f79f8ef40af82bea22b64be4              390 main/binary-amd64/Packages.gz
+SHA512:
+ b7380b75758e1b20758f7b17b5824bc0214aa4059d603fdbc58bb9ab26b877ace1b112f45c9162489e7ff1c821c16725fadbcc83ef85a70cf2ed747f51c5a243               38 Release
+ acd26b145bf1d11eaccc63f6e0511bebde25cd123395d2eb83d9a70a0df1d81ba8b4606217e000485104dabe130a0e2bbd686cb5e77e373b5e1e4f8c0f3c0778              390 main/binary-amd64/Packages.gz
