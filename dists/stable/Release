@@ -1,0 +1,8 @@
+Origin: TheErrorExe Repo
+Label: Stable
+Suite: stable
+Codename: stable
+Architectures: amd64 i386
+Components: main
+Description: TheErrorExe Repo
+
