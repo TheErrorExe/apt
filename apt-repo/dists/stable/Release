@@ -1,0 +1,7 @@
+Origin: TheErrorExe Repository
+Label: TheErrorExe APT Repo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for TheErrorExe
